@@ -1,2 +1,4 @@
-# AxaidBot
-AxaidBot to serwerowy bot serwera "Axaid" wykonany przez @ogienm3#4496
+forever-agent
+=============
+
+HTTP Agent that keeps socket connections alive between keep-alive requests. Formerly part of mikeal/request, now a standalone module.
